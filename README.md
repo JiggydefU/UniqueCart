@@ -12,8 +12,8 @@ Developing an E-Commerce App in **React Native** for modern ECommerce businesses
 ### **Installation:**
 1. Clone the repo:
     ```bash
-    git clone https://github.com/JiggyDefU/unique-cart.git
-    cd unique-cart
+    git clone https://github.com/JiggyDefU/UniqueCart.git
+    cd UniqueCart
     ```
 
 2. Install dependencies:
