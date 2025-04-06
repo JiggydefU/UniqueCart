@@ -1,6 +1,4 @@
-To personalize the project description and make it unique to you, here’s a revamped version of your project, **UniqueCart**, reflecting your branding and your style. 
-
-### **UniqueCart: E-Commerce React Native App**
+## **UniqueCart: E-Commerce React Native App**
 
 Developing an E-Commerce App in **React Native** for modern ECommerce businesses using best practices, React Native 0.76+, and the latest architecture. **UniqueCart** is crafted with scalability and maintainability in mind, providing an exceptional mobile experience.
 
